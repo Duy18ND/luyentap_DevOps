@@ -1,0 +1,13 @@
+.git
+.gitignore
+.gradle
+.idea
+.vscode
+build
+target
+screenshots
+*.md
+*.log
+docker-compose.yml
+compose.yml
+Dockerfile
